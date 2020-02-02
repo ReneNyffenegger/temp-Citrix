@@ -1,0 +1,29 @@
+
+Citrix Workspace {
+
+  Citrix Workspace (formerly Citrix Workspace Suite) is a digital workspace
+  software platform that allows multiple users to
+  remotely access and operate Microsoft Windows desktops running in a
+  datacenter or a public or private cloud, via devices located elsewhere.
+
+  Users are able to access virtual desktops and applications through Citrix
+  Workspace App.
+
+  Applications are delivered and managed via Citrix Virtual Apps.
+
+}
+
+Citrix Workspace App {
+
+  Citrix Workspace App (formerly Citrix Receiver) is the client component of
+    - XenDesktop and
+    - XenApp
+  
+  It was released initially in 2009. 
+
+}
+{ ICA (Independent Computing Architecture)
+
+  ICA is a protocol used in Citrix XenApp / XenDesktop to separate the application logic (which runs remotely) and the presentation (which runs locally on the client).
+
+}
